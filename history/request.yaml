@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXPS-PC03A-05-ADCPTD302-streamed-adcp_config
-last_request: '2022-01-01T02:54:57.117474Z'
+last_request: '2022-01-21T18:06:04.140584Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-PC03A-05-ADCPTD302-streamed-adcp_config/main/history/response.json
 status: discontinued
